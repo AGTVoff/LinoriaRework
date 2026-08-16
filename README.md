@@ -355,7 +355,7 @@ MonProjet/
 ```
 
 Pour un hébergement GitHub, conservez cette arborescence à la racine du dépôt :
-l'URL `raw.githubusercontent.com/<utilisateur>/<depot>/main/addons/ThemeManager.lua`
+l'URL `raw.githubusercontent.com/AGTVoff/LinoriaRework/main/addons/ThemeManager.lua`
 reste alors valide, exactement comme pour le dépôt d'origine.
 
 ---

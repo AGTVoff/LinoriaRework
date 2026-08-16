@@ -31,7 +31,7 @@ Tous les scripts écrits pour LinoriaLib continuent de fonctionner tels quels.
 ### 1. Chargement distant (Raw GitHub) — recommandé
 
 ```lua
-local repo = 'https://raw.githubusercontent.com/<utilisateur>/<depot>/main/'
+local repo = 'https://raw.githubusercontent.com/AGTVoff/LinoriaRework/main/'
 
 local Library      = loadstring(game:HttpGet(repo .. 'Library.lua'))()
 local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))()
